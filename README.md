@@ -37,6 +37,6 @@ database response in a variable and iterate through that.
   * And show off how front-end development should be done.
 
 
-When done, push your branch and let us know when it’s done.
+When done, push your branch and let us know it’s done.
 
 **Good Luck and have fun!**
